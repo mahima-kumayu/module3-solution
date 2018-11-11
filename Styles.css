@@ -1,0 +1,19 @@
+body{
+	font-size: 16px;
+	color: #fff;
+}
+#header-nav{
+	background-color: #f6b319;
+	border-radius: 0;
+	border: 0;
+	height: 70px;
+
+}
+#exi{
+	
+	background-color: #f6b319;
+	border-style: "solid";
+	border-right: 10px;
+	border-color: white;
+	border-width: 100px;
+}
